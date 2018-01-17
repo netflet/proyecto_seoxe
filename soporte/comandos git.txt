@@ -1,0 +1,19 @@
+git pull
+usado para actualizar el repositorio descargado
+
+git add .
+usado para adicionar los cambios al repositorios
+
+git status 
+para ver los cambios realizados localmente
+
+git commit -m "tu comentario" (ej: salto de pagina, caso ACADEMICO-xxx)
+usado para agreagar un mensaje al commit
+
+git push origin master
+ejecuta la actualizacion en el repositorio 
+
+para hacer clone del proyecto
+git clone https://github.com/Jhonatanmunoz/proyecto_seoxe.git
+
+

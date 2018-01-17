@@ -1,0 +1,5 @@
+//Pasos para la instalacion de git en windows//
+
+1. Descargar archivo que esta en la siguiente direccion, http://gitforwindows.org/
+
+2. abren el instalador del archivo que descargaron y continuan con la instalacion.
