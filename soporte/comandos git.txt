@@ -10,7 +10,7 @@ para ver los cambios realizados localmente
 git commit -m "tu comentario" (ej: salto de pagina, caso ACADEMICO-xxx)
 usado para agreagar un mensaje al commit
 
-git push origin master
+git push
 ejecuta la actualizacion en el repositorio 
 
 para hacer clone del proyecto
